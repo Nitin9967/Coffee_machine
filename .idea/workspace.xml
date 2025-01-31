@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad949d69-ef2c-4ea7-a6a4-8434504060b9" name="Changes" comment="Simple coffee machine" />
+    <list default="true" id="ad949d69-ef2c-4ea7-a6a4-8434504060b9" name="Changes" comment="Added Menu and resources">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee_Vending_machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee_Vending_machine/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,20 +69,11 @@
       <option name="project" value="LOCAL" />
       <updated>1738312275445</updated>
     </task>
-    <task id="LOCAL-00002" summary="Simple coffee machine">
-      <option name="closed" value="true" />
-      <created>1738324659061</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1738324659061</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Menu and resources" />
-    <MESSAGE value="Simple coffee machine" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple coffee machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Menu and resources" />
   </component>
 </project>
